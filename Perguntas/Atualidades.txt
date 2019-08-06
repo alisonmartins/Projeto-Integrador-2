@@ -1,0 +1,43 @@
+1;Considerado o jogador de futebol mais ''caro'' do mundo;Neymar,Messi,Cristiano Ronaldo,Ronaldo Fenômeno
+
+2;Exército que se estabeleceu como uma das maiores forças terroristas da atualidade; Estado islâmico,Al Qaeda, Hamas,Talibã
+
+3;Qual das bandas abaixo foi a única a já tocar em todos os continentes do mundo; Metallica,Nirvana,Guns 'n' roses,Linkin Park
+
+4;Atualmente, qual é o artista da indústria da música mais rico do mundo; Madonna,Bono,Paul McCartney, Dr. Dree
+
+5; Termo grego que significa imitação, bastante utlizado nas redes sociais que se refere ao fenômeno de viralização de informações; Memes, Menes, Menas,Minas
+
+6;Atualmente, quem é o presidente dos Estados Unidos; DonaldTrump, Barack Obama, Hillary Clinton,
+ 
+7; Atualmente, qual a a marca mais valiosa do mundo;Google,Apple,Amazon,Microsoft
+
+8;Atualmente, qual é a maior economia do mundo; Estados Unidos,China,Japão,Alemanha
+
+9;Qual desses países lançou um míssil balístico intercontinental pela primeira vez no dia 04/07/2017 ; Coreia do Norte,Coreia do Sul, Rússia,Estados Unidos
+
+10;Atualmente, qual a maior rede de supermercados do Brasil; Pão de Açucar,Carrefour,Walmart,Ceconsud
+
+11; É considerado o maior Cinema ao ar livre do mundo; Shell Open Air, Open the Flowers, Cine300, Theatre Of Masters
+
+12; Qual é o maior estádio do mundo levando em conta a sua capacidade de espectadores; Rungrado May Day, Salt Lake.Michigan,Beaver
+
+13; Considerado atualmente pelo Guinness Book como o "Rei das Embaixadinhas" com a marca de 29 horas e 4 minutos; Ricardinho, Jordão, Krauser, Dimitri
+
+14;Atualmente, o todo poderosos BillGates, perdeu seu posto de homen mais 
+rico do mundo, quem é agora o homen com a maior fortuna no planeta;Jeff Bezzos,Elon Musk,Mark Zuckerberg,Larry Ellison
+
+15;Quais das bandas citadas a baixo, tiveram seus vocalistas mortos por suicídio;Todas as alternativas,Nirvana,Linkin Park,Audioslave
+
+16;Qual a melhor série de televisão da atualidade;Game of Thrones,Stranger Things,The Walking Dead,Supernatural
+
+17;Em qual dos países abaixo o Comunismo deu certo;Nenhuma das alternativas,Cuba,Venezuela,Coreia do Norte
+
+18;Quais foram os ultimos processadores para desktops lançados neste ano de 2017;Todas as alternativas,AMD Ryzen,Intel core i9,AMD threadripper
+
+19;Atualmente a China revelou que pretende enviar o homen para a lua, em que ano está previsto esse feito;2030,2025,2029,2036
+
+20;Quais das cidades citadas a baixo são algumas das mais bonitas do Brasil;Curitiba, Morretes,Espirito Santo, Rio de Janeiro,Brasília, Natal,Suzano, Niterói
+
+
+

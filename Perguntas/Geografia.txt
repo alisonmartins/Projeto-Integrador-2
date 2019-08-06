@@ -1,0 +1,41 @@
+1; qual é a capital da china; Pequim,Tóquio,Japão,Coréia do Norte,
+
+2; qual a capital do Japão; Tóquio, Quioto, Hiroshima,Toyota
+
+3; qual a capital da alemanha;Berlim, Munique,Hamburgo,Frankfurt
+
+4; qual a capital da suécia;Estocolmo, Helsingborg, Gotemburgo,Tumba
+
+5; qual a capital do Pará; Belém, Macapá,Vitória,Natal
+
+6; atualmente, qual a maior cidade do mundo; Tóquio,Déli,São Paulo,Xangai
+
+7; atualmente, qual é a menor cidade do mundo; Hum, Kras, Schovler,Krauser
+
+8; É considerada a maior montanha do mundo; Mauna Kea,Monte Everest,Lhotse,Makalu
+
+9; É a maior floresta tropical do mundo; Floresta Amazônica, Floresta Daintree,Floresta do Congo,Taiga
+
+10; qual o maior deserto do mundo; Deserto da Antártida,Deserto do Saara,Deserto da arábia,Deserto de Gobi
+
+11;O brasil fica localizado em qual continente;America do sul,america do norte,america central, europa
+
+12; É o maior rio do mundo; Rio Amazonas,Rio Nilo, Rio Yangtzé,Rio Paraná
+
+13;É a cidade mais rica do mundo; Tóquio,Nova York, Los Angeles,Chicago
+
+14; É a capital do Afeganistão; Cabul, Candaar,Herat,Jalalabad
+
+15; Oceano que banha o litoral brasileiro; Oceano Atlântico, Oceano Índico,Oceano Pacífico, Oceano Glacial Ártico
+
+16; É a segunda maior cidade do Brasil; Campinas,Rio de Janeiro,Salvador,Belo Horizonte
+
+17; É considerado o maior vulcão do mundo; Mauna Loa, Kilauea, Vesúvio,Krakatoa
+
+18; É deslocamento das correntes de ar de alta intensidade ocasionado pelas baixas pressões e ao processo de evaporação no mar; Furacão, Tornado, Tufão,Ciclone
+
+19;Estado brasileiro que pertence a região sul do Brasil; Santa Catarina, Tocantins, Mato grosso, Maranhão
+
+20;É o conjunto de formas que sobressaem na crosta terrestre; Relevo,Erosão,Vulcão,,Planicíes
+
+

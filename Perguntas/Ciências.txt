@@ -1,0 +1,40 @@
+1;São estruturas formadas por DNA e se localizam no interior do núcleo das células; Cromossomos, Gametas, Nucleolos, RNA
+
+2;É um dos reinos da natureza caracterizado por uma organização celular do tipo procariontes, ou seja por bactérias; Reino Monera,Reino das Palntas,Reino dos Fungos, Reino Protista
+
+3;É um processo característico das plantas e de diversas espécies de protistas e bactérias, utilizando a luz como fonte de energia; Fotossíntese, Submetacêntrico , Abscisão,Simbiose
+
+4;É a quantidade menor de um elemento químico com existência própria, considerada indivisível; átomo, neutron, proton, eletron
+
+5;É a camada gasosa que envolve a Terra; Atmosfera,Biosfera,hidrosfera,estratosfera
+
+6;Corpo celeste que possui uma “cauda” feita de gases, gelo e poeira e uma atmosfera nebulosa ao redor do núcleo; Cometa, Meteoro, Meteorito, Asteróide
+
+7;O sol é; uma estrela, um planeta,um cometa,um satélite
+
+8;Fenômeno atmosférico causado em escala local ou regional, pela precipitação de chuva carregada com grande quantide de ácidos; Chuva ácida, Chuva celeste,Chuva caótica,Chuva 
+
+9;Molécula composta por um átomo de oxigênio e dois de hidrogênio; água,oleo,alcool,água oxigenada
+
+10;É a nomeclatura da formula do explosivo TNT; Trinitrotolueno,Trinitrocilueno,Ciclo -Trimenitrotolueno,Trinitrobenzeno
+
+11;É o maior animal terrestre do mundo; Elefante Africano, Rinoceronte branco, Elefante Asiático, Hipopótamo
+
+12;É considerada a menor ave do mundo; Beija-flor abelha,Weebill,Pardalote,Bananaquit
+
+13;É considerada a maior ave voadora do mundo; Condor Andino, Condor da Califórnia ,Gavião Real,Águia Dourada
+
+14;É o animal terrestre mais rápido do mundo; Guepardo,Antílopes,Gnu,Leão
+
+15; Em qual era começou a surgirem os primeiros animais 
+vertebrados ;Era Paleozoica,Era Proterozaica,Era Arqueozaica,Era Mesozaica
+
+16; Qual dentre os animais abaixo é um dos mais venenosos do mundo;Escorpião Deathstalker,Lula Gigante,Cobra Coral,Dragao de comodo
+
+17; Marque a alternativa incorreta;Anfibios; Sapo e Crocodilo,Répteis; Tartaruga e Lagarto,Mamiferos; Golfinhos e Morcego,Aves; Falcão e Galinha
+
+18; Nome cientifico do mosquito da dengue; Aedes aegypti,Aeges Egypti,Aedes aiged,Ades Gypit
+
+19;Qual a quantidade de cromossomos presente no ser humano;46,23,33,36
+
+20;É o elemento quimico mais encontrado no universo; Hidrogênio,Nitrogênio,Potássio,Carbono

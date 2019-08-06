@@ -1,0 +1,44 @@
+1; Ano em que foi criado a linguagem de programação C; 1972,1970,1912,1954
+
+2;São arquivos de cabeçalho que possibilitam o uso de funções em C; Bibliotecas,Variavéis,matrizes,vetores
+
+3; É a linguagem de programação mais usada no mundo; JavaScript,Python,PHP,Java
+
+4; Comando que serve para alterar o fluxo de execução de um programa em C baseado no valor, verdadeiro ou falso, de um expressão lógica; IF,Switch Case, Do,While,
+
+5;Qual é o tipo de programação que introduz um paradigma de programação que 
+descreve a computação em termos de um estado de um programa e ações que 
+modificam esse estado;Programação Imperativa, Programação HTML, Programação Declarativa, Programação Orientada a objetos
+
+
+6; Qual das linguagens de programação abaixo é a mais antiga;Simula, Ruby, VisualBasic, Linguagem R
+
+7; A Apple criou a sua própria linguagem de programação para desenvolvimento de
+aplicativos para as suas plataformas. Qual o nome dessa linguagem;Swift, PHP, Assembly, Perl
+
+8; Qual dos jogos abaixo foram programados em linguegem JAVA;Minecraft, Doom, Quake, Postal
+
+9; Qual a linguagem de programação considerada a mais difícil;Malboge,LISP, Java, Whitespace
+
+10; A fase de codificação de um sistema dentro de um Processo de Software é;Fase 4,Fase 3, Fase 5, Fase 6
+
+11; Dentre as linguagens de programação a baixo, qual delas não é orientada a objetos;C, Java, Python, SuperCollider
+
+12; Na programação orientada a objetos, existe oque chamamos de Encapsulamento, que consiste em;
+Na separação de aspectos internos e externos de um objeto, Na qual uma classe pode estender outra classe, Na qual um objeto utiliza os recursos de outro, No contrato entre a classe e o mundo externo
+
+13; É responsável por reproduzir um programa de linguagem textual facilmente entendida por um ser humano para uma linguagem de máquina; Compilador,Utilizador,Transformador,Unificador
+
+14;Na programação é uma posição frequentemente localizada na memória capaz de reter e representar um valor ou expressão; Váriavel,Main,operador,console
+
+15;É um tipo de dado de cadeia de caracteres em linguagem C; String,float,int,struct
+
+16;Na linguagem C, é uma váriável especial que contém diversas outras váriaveis de tipos diferentes; Struct,Main,Matriz,Ponteiros
+
+17;Em linguagem C, são váriaveis que armazenam o endereço de memória de outras váriaveis; Ponteiros, Struct,Inteiros,String
+
+18; É um arranjode uma matriz unidimensional, condiderada a mais siples das estruturas de dados; Vetor,Matriz,Váriavél,Struct
+
+19;É uma estrutura de dados do tipo vetor com duas ou mais dimensões; Matriz, Vetor,Struct,Main
+
+20; Comando na linguagem C que concatena duas strings, adicionando o conteúdo da segunda ao final da primeira; Strcat,Strlen,Strcmp,Strcpy
